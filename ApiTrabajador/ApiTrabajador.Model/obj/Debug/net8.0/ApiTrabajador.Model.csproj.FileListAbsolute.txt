@@ -1,0 +1,11 @@
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\bin\Debug\net8.0\ApiTrabajador.Model.deps.json
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\bin\Debug\net8.0\ApiTrabajador.Model.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\bin\Debug\net8.0\ApiTrabajador.Model.pdb
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\obj\Debug\net8.0\ApiTrabajador.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\obj\Debug\net8.0\ApiTrabajador.Model.AssemblyInfoInputs.cache
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\obj\Debug\net8.0\ApiTrabajador.Model.AssemblyInfo.cs
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\obj\Debug\net8.0\ApiTrabajador.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\obj\Debug\net8.0\ApiTrabajador.Model.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\obj\Debug\net8.0\refint\ApiTrabajador.Model.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\obj\Debug\net8.0\ApiTrabajador.Model.pdb
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.Model\obj\Debug\net8.0\ref\ApiTrabajador.Model.dll

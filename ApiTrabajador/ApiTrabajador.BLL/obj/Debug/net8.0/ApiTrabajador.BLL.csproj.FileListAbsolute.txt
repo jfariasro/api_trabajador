@@ -1,0 +1,17 @@
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\bin\Debug\net8.0\ApiTrabajador.BLL.deps.json
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\bin\Debug\net8.0\ApiTrabajador.BLL.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\bin\Debug\net8.0\ApiTrabajador.BLL.pdb
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\obj\Debug\net8.0\ApiTrabajador.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\obj\Debug\net8.0\ApiTrabajador.BLL.AssemblyInfoInputs.cache
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\obj\Debug\net8.0\ApiTrabajador.BLL.AssemblyInfo.cs
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\obj\Debug\net8.0\ApiTrabajador.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\obj\Debug\net8.0\ApiTrabajador.BLL.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\obj\Debug\net8.0\refint\ApiTrabajador.BLL.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\obj\Debug\net8.0\ApiTrabajador.BLL.pdb
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\obj\Debug\net8.0\ref\ApiTrabajador.BLL.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\bin\Debug\net8.0\ApiTrabajador.DAL.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\bin\Debug\net8.0\ApiTrabajador.Model.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\bin\Debug\net8.0\ApiTrabajador.DAL.pdb
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\bin\Debug\net8.0\ApiTrabajador.Model.pdb
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\obj\Debug\net8.0\ApiTrabajador.BLL.csproj.AssemblyReference.cache
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.BLL\obj\Debug\net8.0\ApiTraba.5B283FC8.Up2Date

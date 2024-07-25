@@ -1,0 +1,17 @@
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\bin\Debug\net8.0\ApiTrabajador.DAL.deps.json
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\bin\Debug\net8.0\ApiTrabajador.DAL.runtimeconfig.json
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\bin\Debug\net8.0\ApiTrabajador.DAL.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\bin\Debug\net8.0\ApiTrabajador.DAL.pdb
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\ApiTrabajador.DAL.csproj.AssemblyReference.cache
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\ApiTrabajador.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\ApiTrabajador.DAL.AssemblyInfoInputs.cache
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\ApiTrabajador.DAL.AssemblyInfo.cs
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\ApiTrabajador.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\ApiTrabajador.DAL.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\refint\ApiTrabajador.DAL.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\ApiTrabajador.DAL.pdb
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\ApiTrabajador.DAL.genruntimeconfig.cache
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\ref\ApiTrabajador.DAL.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\bin\Debug\net8.0\ApiTrabajador.Model.dll
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\bin\Debug\net8.0\ApiTrabajador.Model.pdb
+C:\Users\Ruben\Music\ASP.NET\API\api1\ApiTrabajador\ApiTrabajador.DAL\obj\Debug\net8.0\ApiTraba.C104701E.Up2Date
